@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">College GPA Calculator</string>
+    <string name="app_title">Calculate your GPA</string>
+    <string-array name="grades">
+        <item>Grades</item>
+        <item>S</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="credits">
+        <item>Credits</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
+</resources>
